@@ -1,0 +1,74 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerimg": "https://example.com/shakib.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Slow Left-Arm Orthodox",
+    "battingStyle": "Left-Handed",
+    "price": 15000000
+  },
+  {
+    "playerName": "Litton Das",
+    "playerimg": "https://example.com/litton.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 12000000
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerimg": "https://example.com/mustafiz.jpg",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-Arm Fast Medium",
+    "battingStyle": "Left-Handed",
+    "price": 10000000
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerimg": "https://example.com/rashid.jpg",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-Arm Leg Break",
+    "battingStyle": "Right-Handed",
+    "price": 18000000
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerimg": "https://example.com/babar.jpg",
+    "origin": "Pakistan",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Off Break",
+    "battingStyle": "Right-Handed",
+    "price": 20000000
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerimg": "https://example.com/virat.jpg",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-Arm Medium",
+    "battingStyle": "Right-Handed",
+    "price": 25000000
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerimg": "https://example.com/bumrah.jpg",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 22000000
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerimg": "https://example.com/russell.jpg",
+    "origin": "West Indies",
+    "playerType": "All-Rounder",
+    "bowlingStyle": "Right-Arm Fast",
+    "battingStyle": "Right-Handed",
+    "price": 17000000
+  }
+]
